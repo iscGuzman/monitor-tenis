@@ -1,0 +1,883 @@
+{
+ "productos": {
+  "air-force-1-07-rs-gradient-camo-placeholder": {
+   "titulo": "AIR FORCE 1 ‘07 RS — Gradient Camo",
+   "handle": "air-force-1-07-rs-gradient-camo-placeholder",
+   "url": "https://shop.travisscott.com/products/air-force-1-07-rs-gradient-camo-placeholder",
+   "precio": 130.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIAF1LOW_GRADIENT_1_535fc99a-fef8-4bd8-aea1-17ff3de6e4ad.png?v=1795114536",
+   "disponible": false,
+   "tallas": [
+    "3.5",
+    "4",
+    "4.5",
+    "5",
+    "5.5",
+    "6",
+    "6.5",
+    "7",
+    "7.5",
+    "8",
+    "8.5",
+    "9",
+    "9.5",
+    "10",
+    "10.5",
+    "11",
+    "11.5",
+    "12",
+    "12.5",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+   ],
+   "tallas_disp": [],
+   "tipo": "PLACEHOLDER",
+   "fecha_tag": "2026-11-24",
+   "es_tenis": true,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "air-force-1-07-rs-white-copy": {
+   "titulo": "AIR FORCE 1 ‘07 RS — White",
+   "handle": "air-force-1-07-rs-white-copy",
+   "url": "https://shop.travisscott.com/products/air-force-1-07-rs-white-copy",
+   "precio": 130.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIAF1LOW_WHITE_1_77fbc84b-e0ce-4c76-8256-1c94d1cd6694.png?v=1795114538",
+   "disponible": false,
+   "tallas": [
+    "3.5",
+    "4",
+    "4.5",
+    "5",
+    "5.5",
+    "6",
+    "6.5",
+    "7",
+    "7.5",
+    "8",
+    "8.5",
+    "9",
+    "9.5",
+    "10",
+    "10.5",
+    "11",
+    "11.5",
+    "12",
+    "12.5",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+   ],
+   "tallas_disp": [],
+   "tipo": "PLACEHOLDER",
+   "fecha_tag": "2026-11-24",
+   "es_tenis": true,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "air-force-1-07-rs-black-placeholder": {
+   "titulo": "AIR FORCE 1 ‘07 RS — Black",
+   "handle": "air-force-1-07-rs-black-placeholder",
+   "url": "https://shop.travisscott.com/products/air-force-1-07-rs-black-placeholder",
+   "precio": 130.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIAF1LOW_BLACK_1_40400973-3827-456e-87a7-cd3b1f869c76.png?v=1795114539",
+   "disponible": false,
+   "tallas": [
+    "3.5",
+    "4",
+    "4.5",
+    "5",
+    "5.5",
+    "6",
+    "6.5",
+    "7",
+    "7.5",
+    "8",
+    "8.5",
+    "9",
+    "9.5",
+    "10",
+    "10.5",
+    "11",
+    "11.5",
+    "12",
+    "12.5",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+   ],
+   "tallas_disp": [],
+   "tipo": "PLACEHOLDER",
+   "fecha_tag": "2026-11-24",
+   "es_tenis": true,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-6-stars-reflective-tee-camo": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI 6 STARS REFLECTIVE TEE — Camo",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-6-stars-reflective-tee-camo",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-6-stars-reflective-tee-camo",
+   "precio": 58.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVI6STARSREFLECTIVETEE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-6-stars-tee": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI 6 STARS TEE",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-6-stars-tee",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-6-stars-tee",
+   "precio": 58.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVI6STARSTEE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-black": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI MONEY BAND REFLECTIVE HOODIE (BLACK)",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-black",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-black",
+   "precio": 148.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIMONEYBANDREFLECTIVEHOODIE_BLACK_01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-heather": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI MONEY BAND REFLECTIVE HOODIE (HEATHER)",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-heather",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-heather",
+   "precio": 148.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIMONEYBANDREFLECTIVEHOODIE_HEATHER_01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-palms-logo-reflective-hoodie": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI PALMS LOGO REFLECTIVE HOODIE",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-palms-logo-reflective-hoodie",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-palms-logo-reflective-hoodie",
+   "precio": 148.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIPALMSLOGOREFLECTIVEHOODIE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-wanted-reflected-tee": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI WANTED REFLECTIVE TEE — Reflected",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-wanted-reflected-tee",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-wanted-reflected-tee",
+   "precio": 58.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIWANTEDREFLECTIVETEE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-athletic-dept-reflective-tee": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT ATHLETIC DEPT REFLECTIVE TEE",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-athletic-dept-reflective-tee",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-athletic-dept-reflective-tee",
+   "precio": 58.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATATHLETICDEPTREFLECTIVETEEBLACK01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-athletic-dept-tee": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT ATHLETIC DEPT TEE",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-athletic-dept-tee",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-athletic-dept-tee",
+   "precio": 58.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATATHLETICDEPTTEE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-x-miami-heat-vice-city-13-adebayo-swingman-jersey": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT VICE CITY #13 ADEBAYO SWINGMAN JERSEY",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-x-miami-heat-vice-city-13-adebayo-swingman-jersey",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-x-miami-heat-vice-city-13-adebayo-swingman-jersey",
+   "precio": 120.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATATHLETICDEPTTEE01_1500x.png",
+   "disponible": false,
+   "tallas": [
+    "xs",
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-x-miami-heat-vice-city-6-swingman-jersey": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT VICE CITY #6 SWINGMAN JERSEY",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-x-miami-heat-vice-city-6-swingman-jersey",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-x-miami-heat-vice-city-6-swingman-jersey",
+   "precio": 120.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATATHLETICDEPTTEE01_1500x.png",
+   "disponible": false,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "vice-city-swingman-jersey-antetokounmpo": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT VICE CITY #7 ANTETOKOUNMPO SWINGMAN JERSEY",
+   "handle": "vice-city-swingman-jersey-antetokounmpo",
+   "url": "https://shop.travisscott.com/products/vice-city-swingman-jersey-antetokounmpo",
+   "precio": 120.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATATHLETICDEPTTEE01_1500x.png",
+   "disponible": false,
+   "tallas": [
+    "xs",
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-hoodie": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT VICE CITY HOODIE",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-hoodie",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-hoodie",
+   "precio": 148.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATVICECITYHOODIE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-longsleeve": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT VICE CITY LONGSLEEVE",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-longsleeve",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-longsleeve",
+   "precio": 88.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATVICECITYLONGSLEEVE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "vice-city-swingman-short": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT VICE CITY SWINGMAN SHORTS — Short",
+   "handle": "vice-city-swingman-short",
+   "url": "https://shop.travisscott.com/products/vice-city-swingman-short",
+   "precio": 90.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATVICECITYLONGSLEEVE01_1500x.png",
+   "disponible": false,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-womens-baby-tee": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT VICE CITY WOMEN'S BABY TEE — Womens",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-womens-baby-tee",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-vice-city-womens-baby-tee",
+   "precio": 52.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIXMIAMIHEATVICECITYWOMEN_SBABYTEE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-ammu-nation-split-multi-camo-thermal-lined-zip-hoodie": {
+   "titulo": "CJ X GRAND THEFT AUTO VI AMMU-NATION SPLIT MULTI-CAMO THERMAL LINED ZIP HOODIE",
+   "handle": "cj-x-grand-theft-auto-vi-ammu-nation-split-multi-camo-thermal-lined-zip-hoodie",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-ammu-nation-split-multi-camo-thermal-lined-zip-hoodie",
+   "precio": 195.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIAMMU-NATIONSPLITMULTI-CAMOTHERMALLINEDZIPHOODIE01_f8d2e391-ca3e-432a-9660-f8ebfeaf126b_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-banshee-hoodie": {
+   "titulo": "CJ X GRAND THEFT AUTO VI BANSHEE STRIPE HOODIE",
+   "handle": "cj-x-grand-theft-auto-vi-banshee-hoodie",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-banshee-hoodie",
+   "precio": 165.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIBANSHEESTRIPEHOODIE01_caa1ed50-277a-4b84-bb8f-1e50a18a3d86_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-i-didnt-work-today-tee": {
+   "titulo": "CJ X GRAND THEFT AUTO VI I DIDN'T WORK TODAY TEE — Didnt",
+   "handle": "cj-x-grand-theft-auto-vi-i-didnt-work-today-tee",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-i-didnt-work-today-tee",
+   "precio": 55.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIIDIDN_TWORKTODAYTEE01_182f629d-5d09-4bc1-bf71-346cf8d46e4d_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-jack-of-hearts-hoodie": {
+   "titulo": "CJ X GRAND THEFT AUTO VI JACK OF HEARTS HOODIE",
+   "handle": "cj-x-grand-theft-auto-vi-jack-of-hearts-hoodie",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-jack-of-hearts-hoodie",
+   "precio": 150.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIJACKOFHEARTSZIPHOODIE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-jack-of-hearts-security-tee": {
+   "titulo": "CJ X GRAND THEFT AUTO VI JACK OF HEARTS SECURITY TEE",
+   "handle": "cj-x-grand-theft-auto-vi-jack-of-hearts-security-tee",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-jack-of-hearts-security-tee",
+   "precio": 55.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIJACKOFHEARTSSECURITYTEE01_ca25501b-dbcd-49a8-8b60-1057eaab90fe_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-jack-of-hearts-sweatpants": {
+   "titulo": "CJ X GRAND THEFT AUTO VI JACK OF HEARTS SWEATPANTS",
+   "handle": "cj-x-grand-theft-auto-vi-jack-of-hearts-sweatpants",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-jack-of-hearts-sweatpants",
+   "precio": 135.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIJACKOFHEARTSSWEATPANTS01_4939ad4f-a26b-4df0-9402-5f0d3bb25546_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-leonida-collage-tee": {
+   "titulo": "CJ X GRAND THEFT AUTO VI LEONIDA COLLAGE TEE",
+   "handle": "cj-x-grand-theft-auto-vi-leonida-collage-tee",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-leonida-collage-tee",
+   "precio": 60.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVILEONIDACOLLAGETEE01_1160db53-c02f-4fa1-ace3-65602b353c3a_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-logo-vice-city-tee": {
+   "titulo": "CJ X GRAND THEFT AUTO VI LOGO VICE CITY TEE",
+   "handle": "cj-x-grand-theft-auto-vi-logo-vice-city-tee",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-logo-vice-city-tee",
+   "precio": 55.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVILOGOVICECITYTEE01_dea76682-7a9e-4ba9-a88e-a55b656f95cb_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-sanchez-racing-jersey": {
+   "titulo": "CJ X GRAND THEFT AUTO VI SANCHEZ RACING JERSEY",
+   "handle": "cj-x-grand-theft-auto-vi-sanchez-racing-jersey",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-sanchez-racing-jersey",
+   "precio": 135.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVISANCHEZMOTORACINGJERSEY01_c228e009-830c-4bab-8e10-28bd59f28b3c_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-vice-city-collectors-varsity-jacket": {
+   "titulo": "CJ X GRAND THEFT AUTO VI VICE CITY COLLECTOR'S VARSITY JACKET — Collectors",
+   "handle": "cj-x-grand-theft-auto-vi-vice-city-collectors-varsity-jacket",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-vice-city-collectors-varsity-jacket",
+   "precio": 1200.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIVICECITYCOLLECTOR_SVARSITYJACKET01_cdf3f331-ba10-43b9-8ed7-713fa1929750_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-vice-city-hat": {
+   "titulo": "CJ X GRAND THEFT AUTO VI VICE CITY HAT",
+   "handle": "cj-x-grand-theft-auto-vi-vice-city-hat",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-vice-city-hat",
+   "precio": 50.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIVICECITYHAT01_f62842de-b3e8-4208-bbaa-da047b171eff_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "default title"
+   ],
+   "tallas_disp": [
+    "default title"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cj-x-grand-theft-auto-vi-vice-city-map-reflective-hoodie": {
+   "titulo": "CJ X GRAND THEFT AUTO VI VICE CITY MAP REFLECTIVE ZIP HOODIE",
+   "handle": "cj-x-grand-theft-auto-vi-vice-city-map-reflective-hoodie",
+   "url": "https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-vice-city-map-reflective-hoodie",
+   "precio": 175.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CJXGRANDTHEFTAUTOVIVICECITYMAPREFLECTIVEZIPHOODIE01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-19T22:03",
+   "cambio": "2026-11-19T22:03",
+   "activo": true
+  }
+ },
+ "contador": "Sept 10 2026 20:00:00 GMT-0400",
+ "historial": [
+  {
+   "cuando": "2026-11-19T22:03",
+   "tipo": "contador",
+   "titulo": "Sept 10 2026 20:00:00 GMT-0400",
+   "url": "https://shop.travisscott.com"
+  },
+  {
+   "cuando": "2026-11-19T22:03",
+   "tipo": "nuevo",
+   "titulo": "AIR FORCE 1 ‘07 RS — Black",
+   "url": "https://shop.travisscott.com/products/air-force-1-07-rs-black-placeholder"
+  },
+  {
+   "cuando": "2026-11-19T22:03",
+   "tipo": "nuevo",
+   "titulo": "AIR FORCE 1 ‘07 RS — White",
+   "url": "https://shop.travisscott.com/products/air-force-1-07-rs-white-copy"
+  },
+  {
+   "cuando": "2026-11-19T22:03",
+   "tipo": "nuevo",
+   "titulo": "AIR FORCE 1 ‘07 RS — Gradient Camo",
+   "url": "https://shop.travisscott.com/products/air-force-1-07-rs-gradient-camo-placeholder"
+  }
+ ]
+}
