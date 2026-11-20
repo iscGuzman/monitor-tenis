@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor de Tenis</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Tenis CJ">
+<meta name="theme-color" content="#14110f">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👟</text></svg>">
+<style>
+:root{--bg:#f4f1ec;--card:#fff;--ink:#1a1714;--muted:#756d64;--line:#e5dfd6;
+  --sale:#0f8a4f;--sale-soft:#ddf3e7;--soon:#b45309;--soon-soft:#fdf0dc;--out:#8a8178;--out-soft:#eeeae4;--acc:#7c4a1e}
+@media (prefers-color-scheme: dark){:root{--bg:#121010;--card:#1c1917;--ink:#f1ece6;--muted:#a39a90;--line:#2e2925;
+  --sale:#4ade80;--sale-soft:#123222;--soon:#fbbf24;--soon-soft:#3a2a0c;--out:#8f877e;--out-soft:#26221f;--acc:#e0a96d}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:26px 16px 60px}
+h1{margin:0;font-size:28px;letter-spacing:-.02em}
+.sub{color:var(--muted);font-size:14px}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:10px;margin-bottom:18px}
+.banner{background:var(--soon-soft);color:var(--soon);border-radius:12px;padding:10px 14px;margin-bottom:16px;font-weight:600;font-size:14px}
+.bar{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--card)}
+.seg button{border:0;background:transparent;color:var(--ink);padding:7px 12px;font:inherit;font-size:14px;cursor:pointer}
+.seg button.on{background:var(--ink);color:var(--bg)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column}
+.img{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center}
+.img img{width:100%;height:100%;object-fit:contain}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.t{font-weight:700;font-size:15px;line-height:1.25}
+.row{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.price{font-weight:700;font-variant-numeric:tabular-nums}
+.badge{font-size:12px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.b-sale{background:var(--sale-soft);color:var(--sale)} .b-soon{background:var(--soon-soft);color:var(--soon)} .b-out{background:var(--out-soft);color:var(--out)}
+.sizes{display:flex;flex-wrap:wrap;gap:4px}
+.sizes span{font-size:11px;padding:2px 6px;border-radius:6px;border:1px solid var(--line);color:var(--muted);font-variant-numeric:tabular-nums}
+.sizes span.ok{border-color:var(--sale);color:var(--sale);font-weight:700}
+.meta{font-size:12px;color:var(--muted)}
+.card a.btn{margin-top:auto;text-align:center;padding:9px;border-radius:10px;background:var(--ink);color:var(--bg);text-decoration:none;font-weight:600;font-size:14px}
+h2{font-size:14px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:30px 0 10px}
+.hist{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.hist div{display:flex;gap:10px;padding:10px 14px;border-bottom:1px solid var(--line);font-size:14px}
+.hist div:last-child{border-bottom:0}
+.hist time{color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.hist a{color:var(--acc);text-decoration:none}
+.empty{color:var(--muted);padding:30px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div><h1>Monitor de Tenis 👟</h1><div class="sub">shop.travisscott.com · revisión automática cada 15 min</div></div>
+    <div class="sub" id="upd"></div>
+  </header>
+  <div id="banner"></div>
+  <div class="bar">
+    <div class="seg" id="fQue"><button data-v="tenis" class="on">Solo tenis</button><button data-v="todo">Toda la tienda</button></div>
+    <div class="seg" id="fEst"><button data-v="" class="on">Todos</button><button data-v="sale">Disponibles</button><button data-v="soon">Próximamente</button></div>
+  </div>
+  <div class="grid" id="grid"></div>
+  <h2>Historial de cambios</h2>
+  <div class="hist" id="hist"></div>
+</div>
+<script>
+const D = /*DATA*/null;
+const $ = s => document.querySelector(s);
+const MES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+const f = s => { const d = new Date(s); return `${d.getDate()} ${MES[d.getMonth()]} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`; };
+const fd = s => { const [y,m,d] = s.split("-"); return `${+d} ${MES[m-1]} ${y}`; };
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const st = {que:"tenis", est:""};
+const TIPO = {nuevo:"🆕 Publicado", venta:"🔥 A la venta", agotado:"Agotado", fecha:"📅 Fecha nueva", retirado:"Retirado", contador:"⏱️ Contador"};
+
+$("#upd").textContent = "Última revisión: " + f(D.ultima_revision);
+if (D.contador && new Date(D.contador) > new Date()) $("#banner").innerHTML = `<div class="banner">⏱️ La tienda tiene un contador hacia el ${esc(D.contador)}</div>`;
+
+function estado(p){ return p.disponible ? "sale" : p.tipo === "PLACEHOLDER" || p.fecha_tag ? "soon" : "out"; }
+
+function render(){
+  let ps = Object.values(D.productos).filter(p => p.activo && (st.que === "todo" || p.es_tenis));
+  if (st.est) ps = ps.filter(p => estado(p) === st.est);
+  const orden = {sale:0, soon:1, out:2};
+  ps.sort((a,b) => orden[estado(a)] - orden[estado(b)] || (b.es_tenis - a.es_tenis) || b.visto_desde.localeCompare(a.visto_desde));
+  $("#grid").innerHTML = ps.length ? ps.map(p => {
+    const e = estado(p);
+    const badge = {sale:'<span class="badge b-sale">Disponible</span>', soon:'<span class="badge b-soon">Próximamente</span>', out:'<span class="badge b-out">Agotado</span>'}[e];
+    const sizes = p.tallas.filter(Boolean).map(t => `<span class="${p.tallas_disp.includes(t)?"ok":""}">${esc(t)}</span>`).join("");
+    return `<div class="card">
+      <div class="img">${p.imagen ? `<img loading="lazy" src="${esc(p.imagen)}" alt="">` : ""}</div>
+      <div class="body">
+        <div class="t">${esc(p.titulo)}</div>
+        <div class="row"><span class="price">$${p.precio.toFixed(0)} USD</span>${badge}</div>
+        ${p.fecha_tag ? `<div class="meta">📅 Posible fecha: <b>${fd(p.fecha_tag)}</b></div>` : ""}
+        ${sizes ? `<div class="sizes">${sizes}</div>` : ""}
+        <div class="meta">Visto desde ${f(p.visto_desde)}</div>
+        <a class="btn" href="${esc(p.url)}" target="_blank" rel="noopener">Ver en la tienda ↗</a>
+      </div></div>`;
+  }).join("") : `<div class="empty">Nada por aquí con estos filtros.</div>`;
+}
+
+$("#hist").innerHTML = D.historial.length
+  ? D.historial.slice(0,30).map(h => `<div><time>${f(h.cuando)}</time><span>${TIPO[h.tipo]||h.tipo}: <a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.titulo)}</a></span></div>`).join("")
+  : `<div><span class="sub">Sin cambios todavía. Aquí verás cuándo aparece o se agota cada tenis.</span></div>`;
+
+for (const [id,key] of [["#fQue","que"],["#fEst","est"]])
+  document.querySelectorAll(id+" button").forEach(b => b.onclick = () => {
+    st[key] = b.dataset.v; document.querySelectorAll(id+" button").forEach(x => x.classList.toggle("on", x===b)); render(); });
+render();
+</script>
+</body>
+</html>
