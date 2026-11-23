@@ -152,7 +152,7 @@
    "es_tenis": false,
    "visto_desde": "2026-11-19T22:03",
    "cambio": "2026-11-20T06:38",
-   "activo": false
+   "activo": true
   },
   "cactus-jack-nike-x-grand-theft-auto-vi-6-stars-tee": {
    "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI 6 STARS TEE",
@@ -180,7 +180,7 @@
    "es_tenis": false,
    "visto_desde": "2026-11-19T22:03",
    "cambio": "2026-11-20T06:38",
-   "activo": false
+   "activo": true
   },
   "cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-black": {
    "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI MONEY BAND REFLECTIVE HOODIE (BLACK)",
@@ -208,14 +208,14 @@
    "es_tenis": false,
    "visto_desde": "2026-11-19T22:03",
    "cambio": "2026-11-20T06:38",
-   "activo": false
+   "activo": true
   },
   "cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-heather": {
    "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI MONEY BAND REFLECTIVE HOODIE (HEATHER)",
    "handle": "cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-heather",
    "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-money-band-reflective-hoodie-heather",
    "precio": 148.0,
-   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIMONEYBANDREFLECTIVEHOODIE_HEATHER_01_1500x.png",
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIMONEYBANDREFLECTIVEHOODIE_HEATHER_01_282c1bdd-50c2-41e0-b13e-e74ec093db64_1500x.png",
    "disponible": true,
    "tallas": [
     "s",
@@ -236,7 +236,7 @@
    "es_tenis": false,
    "visto_desde": "2026-11-19T22:03",
    "cambio": "2026-11-20T06:38",
-   "activo": false
+   "activo": true
   },
   "cactus-jack-nike-x-grand-theft-auto-vi-palms-logo-reflective-hoodie": {
    "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI PALMS LOGO REFLECTIVE HOODIE",
@@ -264,7 +264,7 @@
    "es_tenis": false,
    "visto_desde": "2026-11-19T22:03",
    "cambio": "2026-11-20T06:38",
-   "activo": false
+   "activo": true
   },
   "cactus-jack-nike-x-grand-theft-auto-vi-wanted-reflected-tee": {
    "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI WANTED REFLECTIVE TEE — Reflected",
@@ -292,7 +292,7 @@
    "es_tenis": false,
    "visto_desde": "2026-11-19T22:03",
    "cambio": "2026-11-20T06:38",
-   "activo": false
+   "activo": true
   },
   "cactus-jack-nike-x-grand-theft-auto-vi-miami-heat-athletic-dept-reflective-tee": {
    "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI X MIAMI HEAT ATHLETIC DEPT REFLECTIVE TEE",
@@ -850,6 +850,166 @@
    "es_tenis": false,
    "visto_desde": "2026-11-19T22:03",
    "cambio": "2026-11-19T22:03",
+   "activo": true
+  },
+  "cactus-jack-nike-reflective-balaclava": {
+   "titulo": "CACTUS JACK NIKE REFLECTIVE BALACLAVA",
+   "handle": "cactus-jack-nike-reflective-balaclava",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-reflective-balaclava",
+   "precio": 50.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIREFLECTIVEBALACLAVA01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "default title"
+   ],
+   "tallas_disp": [
+    "default title"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-23T18:39",
+   "cambio": "2026-11-23T18:39",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-6-stars-camo-thermal-lined-zip-hoodie": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI 6 STARS CAMO THERMAL LINED ZIP HOODIE",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-6-stars-camo-thermal-lined-zip-hoodie",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-6-stars-camo-thermal-lined-zip-hoodie",
+   "precio": 195.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVI6STARSCAMOTHERMALLINEDZIPUP01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-23T18:39",
+   "cambio": "2026-11-23T18:39",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-reflective-6-stars-sweatpants": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI REFLECTIVE 6 STARS SWEATPANTS",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-reflective-6-stars-sweatpants",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-reflective-6-stars-sweatpants",
+   "precio": 135.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIREFLECTIVE6STARSSWEATPANT01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-23T18:39",
+   "cambio": "2026-11-23T18:39",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-reflective-6-stars-windbreaker-pants": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI REFLECTIVE 6 STARS WINDBREAKER PANTS",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-reflective-6-stars-windbreaker-pants",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-reflective-6-stars-windbreaker-pants",
+   "precio": 140.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIREFLECTIVETRACKPANTS01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-23T18:39",
+   "cambio": "2026-11-23T18:39",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-reflective-star-windbreaker-jacket-black": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI REFLECTIVE STAR WINDBREAKER JACKET (BLACK)",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-reflective-star-windbreaker-jacket-black",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-reflective-star-windbreaker-jacket-black",
+   "precio": 160.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIREFLECTIVETRACKJACKET_BLACK_01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-23T18:39",
+   "cambio": "2026-11-23T18:39",
+   "activo": true
+  },
+  "cactus-jack-nike-x-grand-theft-auto-vi-reflective-star-windbreaker-jacket-pink": {
+   "titulo": "CACTUS JACK NIKE X GRAND THEFT AUTO VI REFLECTIVE STAR WINDBREAKER JACKET (PINK)",
+   "handle": "cactus-jack-nike-x-grand-theft-auto-vi-reflective-star-windbreaker-jacket-pink",
+   "url": "https://shop.travisscott.com/products/cactus-jack-nike-x-grand-theft-auto-vi-reflective-star-windbreaker-jacket-pink",
+   "precio": 160.0,
+   "imagen": "https://shop.travisscott.com/cdn/shop/files/CACTUSJACKNIKEXGRANDTHEFTAUTOVIREFLECTIVETRACKJACKET_PINK_01_1500x.png",
+   "disponible": true,
+   "tallas": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tallas_disp": [
+    "s",
+    "m",
+    "l",
+    "xl",
+    "2xl"
+   ],
+   "tipo": "",
+   "fecha_tag": null,
+   "es_tenis": false,
+   "visto_desde": "2026-11-23T18:39",
+   "cambio": "2026-11-23T18:39",
    "activo": true
   }
  },
